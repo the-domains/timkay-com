@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T19:21:06.848Z'
-dateModified: '2016-03-05T19:20:49.206Z'
+datePublished: '2016-03-05T19:26:35.517Z'
+dateModified: '2016-03-05T19:21:15.525Z'
 title: Contact Info
 author: []
+sourcePath: _posts/2016-03-05-contact-info.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-contact-info.md
-published: true
 url: contact-info/index.html
 _type: Article
 
