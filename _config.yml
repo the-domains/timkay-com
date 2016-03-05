@@ -1,0 +1,29 @@
+name: timkay.com
+favicon: null
+layout_spectrum: 0.7205527506303042
+typography_spectrum: 0.6316552464850247
+title: timkay.com
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.39310945686884224
+  lightness: 0.23620826890692115
+  saturation: 0.30284233088605106
+  rhythmicContrast: 0.8828681036829948
+purpose: []
