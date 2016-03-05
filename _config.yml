@@ -1,7 +1,8 @@
 name: timkay.com
 favicon: null
 layout_spectrum: 0.7205527506303042
-typography_spectrum: 0.6316552464850247
+typography_spectrum: 0.18899
+title: timkay.com
 cta:
   domain: null
   bucket: null
@@ -21,7 +22,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.39310945686884224
+  brandStrength: 0.1875
   lightness: 0.23620826890692115
   saturation: 0.30284233088605106
   rhythmicContrast: 0.8828681036829948
